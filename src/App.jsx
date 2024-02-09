@@ -29,7 +29,7 @@ const showdata=()=>{
   return (
     
     <div className='text-center text-danger bg-dark'>
-      hello
+      
         {temp}
       <h1>Hello {count}</h1>
       <FontAwesomeIcon icon={faPhone} style={{fontSize:'25px'}}/>
